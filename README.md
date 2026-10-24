@@ -8,7 +8,7 @@ The Sales Performance Dashboard transforms sales data into an interactive visual
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](Sales Dashboard preview.png)
+![Sales-Performance-Dashboard]/Sales Dashboard preview .png
 
 ## 📈 Key Performance Indicators (KPIs)
 
